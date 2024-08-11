@@ -55,7 +55,7 @@
 
 1. **Clone the repository to your local machine:**
    ```bash
-   git clone https://github.com/ashrafulalam005/rock-paper-scissors-with-html-css-javascript.git
+   git clone https://github.com/ashrafulalam005/Rock-Paper-Scissors-with-html-css-javascript.git
 
 
 

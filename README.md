@@ -51,41 +51,48 @@
 <br>
 
 # Installation and Setup 🛠️
-<br>
+<br> 
 
-1. **Clone the repository to your local machine:**
-   ```bash
-   git clone https://github.com/ashrafulalam005/Rock-Paper-Scissors-with-html-css-javascript.git
+# 1. Download the APK file to play offline:
 
-
-
-
-<br>
-
-<!-- # Or -->
-
-<!-- Visit the link to view the clock online :  -->
-<!-- https://ashrafulalam005.github.io/digital-clock-with-html-css-javascript/ -->
+## [Download APK](https://github.com/ashrafulalam005/Rock-Paper-Scissors-with-html-css-javascript/blob/main/RockPaperScissor.apk)
 
 <br> 
+
+## Or
+<br>
+
+# 2. Visit the link to play online :
+
+## https://ashrafulalam005.github.io/Age-calculator-with-html-css-javascript/
+<br> <br> 
+
 
 # Screenshots of the Game 🖼️
 
 <br> 
 
-## Win 
+## Before Starting
 
 <br> 
 
-<img src="https://github.com/ashrafulalam005/Rock-Paper-Seizer-with-html-css-javascript/blob/main/necessary%20img/win.png" alt="demo png" height="420" width="600">
+<img src="https://github.com/ashrafulalam005/Rock-Paper-Scissors-with-html-css-javascript/blob/main/necessary%20img/beforestarting.jpg" alt="demo png" height="500" width="240">
 
 <br> 
 
-## Lose 
+## You Win
 
 <br> 
 
-<img src="https://github.com/ashrafulalam005/Rock-Paper-Seizer-with-html-css-javascript/blob/main/necessary%20img/lose.png" alt="demo png" height="420" width="600">
+<img src="https://github.com/ashrafulalam005/Rock-Paper-Scissors-with-html-css-javascript/blob/main/necessary%20img/you%20win.jpg" alt="demo png" height="500" width="240">
+
+<br> 
+
+## You Lose
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/Rock-Paper-Scissors-with-html-css-javascript/blob/main/necessary%20img/you%20lose.jpg" alt="demo png" height="500" width="240">
 
 <br> 
 
@@ -93,8 +100,19 @@
 
 <br> 
 
-<img src="https://github.com/ashrafulalam005/Rock-Paper-Seizer-with-html-css-javascript/blob/main/necessary%20img/draw.png" alt="demo png" height="420" width="600">
+<img src="https://github.com/ashrafulalam005/Rock-Paper-Scissors-with-html-css-javascript/blob/main/necessary%20img/draw.jpg" alt="demo png" height="500" width="240">
 
 <br> 
+
+## Reset Game
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/Rock-Paper-Scissors-with-html-css-javascript/blob/main/necessary%20img/reset.jpg" alt="demo png" height="500" width="240">
+
+<br> 
+
+
+
 
 
